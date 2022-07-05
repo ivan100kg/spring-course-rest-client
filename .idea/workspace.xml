@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856bb00c-ed67-408f-92cf-4f0118277d14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/Communication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/configuration/MyConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/entity/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/io/github/ivan100kg/rest/AppTest.java" afterDir="false" />
+    <list default="true" id="856bb00c-ed67-408f-92cf-4f0118277d14" name="Changes" comment="Add Communication.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/Communication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/ivan100kg/rest/Communication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +73,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657008548694</updated>
-      <workItem from="1657008549957" duration="1339000" />
+      <workItem from="1657008549957" duration="2917000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1657010377669</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010377669</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add main app - App.java">
+      <created>1657010408232</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010408232</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add Employee.java">
+      <created>1657010419424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010419424</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add MyConfig.java">
+      <created>1657010429813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010429813</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Communication.java">
+      <created>1657010468333</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657010468333</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +126,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Add main app - App.java" />
+    <MESSAGE value="Add Employee.java" />
+    <MESSAGE value="Add MyConfig.java" />
+    <MESSAGE value="Add Communication.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Communication.java" />
   </component>
 </project>
